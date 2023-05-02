@@ -2,4 +2,4 @@
 Built custom KnowledgeBot using GPT-Index for vector index building and querying information retrieval, and LangChain for accessing OpenAI's resources.
 
 
-Will Update this Stay tune!!!!
+Will Update this Stay tune!!!! 😀
